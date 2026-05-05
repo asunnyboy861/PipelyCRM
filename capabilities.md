@@ -29,5 +29,6 @@ Based on operation guide analysis:
 - Background Modes — local notifications handle follow-up reminders without background modes
 
 ## Verification
-- Build succeeded after configuration: Pending (will verify in Phase 6)
-- All entitlements correct: Pending
+- Build succeeded after configuration: ✅
+- All entitlements correct: ✅
+- iCloud / CloudKit: ⏳ Manual setup required in Xcode before App Store submission

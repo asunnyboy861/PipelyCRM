@@ -53,6 +53,12 @@
 - **Duration**: 7 days
 - **Type**: Free trial (auto-converts to paid monthly)
 
+## App Store Connect Pricing
+- **Price Tier**: Free (app download)
+- **Subscription Pricing**: Set in App Store Connect
+  - Monthly: Tier 89 ($9.99)
+  - Yearly: Tier 799 ($79.99)
+
 ## Policy Pages Required
 - Support Page: ✅ (Must include subscription management info)
 - Privacy Policy: ✅
